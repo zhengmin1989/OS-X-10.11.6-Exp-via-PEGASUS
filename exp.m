@@ -6,7 +6,7 @@
 
  * Note: 1. If you want to test this exp, you should not install Security Update 2016-001 
             (like iOS 9.3.5 patch for PEGASUS). 
-         2. I hardcoded a kernel address to calcuate kslide, it maybe different on your mac.
+         2. I hardcoded a kernel address to calculate the kslide, it may be different on your mac.
 
  * Special Thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, 
    cererdlong, eakerqiu, etc.
@@ -235,7 +235,7 @@ int main(int argc, char * argv[])
 
   printf("*********************************************************************\n");
   printf("Local privilege escalation for OS X 10.11.6 via PEGASUS \n");
-  printf("by Min(Spark) Zheng @ Team OverSky (twitter: @SparkZheng)\n");
+  printf("by Min(Spark) Zheng @ Team OverSky (twitter@SparkZheng)\n");
   printf("*********************************************************************\n");
 
   getkaslr();
