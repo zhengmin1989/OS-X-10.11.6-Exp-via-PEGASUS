@@ -1,6 +1,6 @@
  * Local privilege escalation for OS X 10.11.6 via PEGASUS
 
- * twitter@SparkZheng weibo@蒸米spark
+ * by Min(Spark) Zheng (twitter@SparkZheng)
 
  * Note:   
          1. If you want to test this exp, you should not install Security Update 2016-001 
