@@ -1,4 +1,4 @@
- * Local privilege escalation for OS X 10.11.6 via PEGASUS
+Local privilege escalation for OS X 10.11.6 via PEGASUS
 
  * by Min(Spark) Zheng (twitter@SparkZheng, weibo@蒸米spark)
 
