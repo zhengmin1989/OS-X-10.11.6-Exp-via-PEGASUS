@@ -1,6 +1,6 @@
  * Local privilege escalation for OS X 10.11.6 via PEGASUS
 
- * by Min(Spark) Zheng @ Team OverSky (twitter@SparkZheng weibo@蒸米spark)
+ * by Min(Spark) Zheng (twitter@SparkZheng weibo@蒸米spark)
 
  * Note:   
          1. If you want to test this exp, you should not install Security Update 2016-001 
@@ -23,7 +23,7 @@
     Darwin MacBookPro 15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64 x86_64  
 
 
- * Special Thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, 
+ * Special thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, 
    cererdlong, eakerqiu, etc.
  
  * Reference:   
