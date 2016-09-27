@@ -8,8 +8,7 @@
             (like iOS 9.3.5 patch for PEGASUS). 
          2. I hardcoded a kernel address to calculate the kslide, it may be different on your mac.
 
- * Special Thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, 
-   cererdlong, eakerqiu, etc.
+ * Special Thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, etc.
  
  * Reference: 1. http://blog.pangu.io/cve-2016-4655/
               2. https://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
