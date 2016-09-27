@@ -1,5 +1,9 @@
 #Local privilege escalation for OS X 10.11.6 via PEGASUS
 
+ * Write up: 
+   1. Chinese  Version: https://jaq.alibaba.com/community/art/show?articleid=531
+   2. English Version: https://jaq.alibaba.com/community/art/show?articleid=532
+ 
  * by Min(Spark) Zheng (twitter@SparkZheng, weibo@蒸米spark)
 
  * Note:   
