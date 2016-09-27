@@ -27,8 +27,7 @@
     Darwin MacBookPro 15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64 x86_64  
 
 
- * Special thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, 
-   cererdlong, eakerqiu, etc.
+ * Special thanks to proteas, qwertyoruiop, windknown, aimin pan, jingle, liangchen, qoobee, etc.
  
  * Reference:   
               1. http://blog.pangu.io/cve-2016-4655/  
